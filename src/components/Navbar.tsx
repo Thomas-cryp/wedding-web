@@ -31,7 +31,7 @@ export default function Navbar() {
             <li key={l.href} className="list-none">
               <a
                 href={l.href}
-                className="text-sm font-semibold uppercase tracking-wide text-white no-underline drop-shadow-md transition-colors hover:text-accent"
+                className="text-lg font-semibold uppercase tracking-wide text-white no-underline drop-shadow-md transition-colors hover:text-accent"
               >
                 {l.label}
               </a>

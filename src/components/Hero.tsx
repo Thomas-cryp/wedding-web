@@ -10,7 +10,7 @@ export default function Hero() {
           loop
           muted
           playsInline
-          className="h-full w-full object-cover md:object-contain"
+          className="h-full w-full object-cover"
           aria-label="Hero background"
         />
         <div
